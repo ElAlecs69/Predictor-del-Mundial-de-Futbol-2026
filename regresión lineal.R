@@ -1,6 +1,5 @@
 # ============================================================
 # REGRESIONES LINEALES PARA PREDICCION DE PARTIDOS / MUNDIAL
-# Autor: pipeline ChatGPT
 # Datos esperados en la misma carpeta del script:
 # - teams_match_features*.csv
 # - teams_form_clean*.csv
